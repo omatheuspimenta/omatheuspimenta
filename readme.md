@@ -42,7 +42,7 @@ Timezone: Brasília - Brazil (GMT-3)
 </p>
 <p align="center">
 <a href="https://www.python.org/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omatheuspimenta" alt="Python" /></a>&nbsp;
-<a href="https://orcid.org/0000-0003-0698-6360"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuspimenta" alt="R" /></a>&nbsp;
+<a href="https://www.r-project.org/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuspimenta" alt="R" /></a>&nbsp;
 </p>
 
 ---
