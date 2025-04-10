@@ -21,7 +21,7 @@ Timezone: Brasília - Brazil (GMT-3)
 </p>
 
 - Mathematician with a Master's Degree in Applied and Computational Mathematics - Emphasis on Discrete Optimization and development of heuristics
-- PhD student in [Bioinformatics](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgab) at the Universidade Tecnológica Federal do Paraná and Universidade Federal do Paraná
+- PhD in [Bioinformatics](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgab) at the Universidade Tecnológica Federal do Paraná and Universidade Federal do Paraná
 - Currently working on:
   - Complex Networks
   - Classification of biological sequences
@@ -41,8 +41,7 @@ Timezone: Brasília - Brazil (GMT-3)
 <h2 align="center">Analytics </h2>
 </p>
 <p align="center">
-<a href="https://github.com/omatheuspimenta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omatheuspimenta" alt="Python" /></a>&nbsp;
-<a href="https://github.com/omatheuspimenta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuspimenta" alt="R" /></a>&nbsp;
+<a href="https://github.com/omatheuspimenta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuspimenta" alt="Github" /></a>&nbsp;
 </p>
 
 ---
