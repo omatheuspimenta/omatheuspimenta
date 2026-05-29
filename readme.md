@@ -38,10 +38,3 @@ Timezone: Brasília - Brazil (GMT-3)
 </p>
 
 ---
-<h2 align="center">Analytics </h2>
-</p>
-<p align="center">
-<a href="https://github.com/omatheuspimenta"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omatheuspimenta" alt="Github" /></a>&nbsp;
-</p>
-
----
